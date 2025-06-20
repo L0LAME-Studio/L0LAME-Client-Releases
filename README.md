@@ -48,7 +48,7 @@ Si tienes algún problema durante la instalación:
 
 ¡Gracias por usar nuestro launcher! 🚀
 
-<p align="center">
+<p style="display: flex; justify-content: center;">
   <a href="https://lolame.studio/downloads/">
     <img src="mockup.png" alt="mockup">
   </a>
