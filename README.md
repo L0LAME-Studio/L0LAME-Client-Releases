@@ -47,3 +47,9 @@ Si tienes algún problema durante la instalación:
 ---
 
 ¡Gracias por usar nuestro launcher! 🚀
+
+<p align="center">
+  <a href="https://lolame.studio/downloads/">
+    <img src="mockup.png" alt="mockup">
+  </a>
+</p>
